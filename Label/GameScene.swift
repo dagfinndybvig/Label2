@@ -10,7 +10,7 @@ import SpriteKit
 
 class GameScene: SKScene {
   
-    let label = SKLabelNode(text: "Hello SpriteKit!")
+    let label = SKLabelNode(text: "Hello Dagfinn!")
 
     override func didMove(to view: SKView) {
 
